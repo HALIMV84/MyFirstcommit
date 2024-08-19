@@ -1,2 +1,2 @@
 <?php
-echo"hello World V2";
+echo"hello World V2 from public folder";
